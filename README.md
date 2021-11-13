@@ -1,6 +1,6 @@
 ## Amazon Website Clone
 
-A MERN stack application where you can share drawings with others.
+A simple high level clone with limited functionality of the Amazon website.
 
 `DEMO` https://clone-703a1.web.app/
 
